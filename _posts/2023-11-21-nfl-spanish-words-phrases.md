@@ -1,8 +1,8 @@
 ---
-title:  "2023-11-21-nfl-spanish-words-phrases.md"
-mathjax: true
 layout: post
-categories: media
+title:  "American Football / Spanish Words & Translations"
+categories: [ spanish,football ]
+image: assets/images/nfl.jpg
 ---
 
 spanish words i gotta learn from watching NFL in spanish.
