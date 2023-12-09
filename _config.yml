@@ -1,13 +1,13 @@
 title: "Affiliates"
-email: wowthemesnet@gmail.com
-timezone: UTC
+email: the.software.shinobi@gmail.com
+timezone: BOG
 baseurl: "/"
-permalink: "/:title/"
+permalink: none
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
-disqus: 'demowebsite'
+#disqus: 'demowebsite'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -43,9 +43,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/mateo.taganga/
+##  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+##  twitter: https://twitter.com/bstartercom
 
 # Plugins
 plugins: 
