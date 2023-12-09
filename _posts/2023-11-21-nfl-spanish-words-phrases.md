@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "American Football / Spanish Words & Translations"
+author: sal
 categories: [ spanish,football ]
-image: https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg
-
+image: assets/images/3.jpg
 ---
 
 spanish words i gotta learn from watching NFL in spanish.
