@@ -4,11 +4,11 @@ layout: post
 
 author: softwareshinobi
 
-title:  "hesis basketball"
+title:  "blank article"
 
-categories: [linux,compose]
+categories: []
 
-tags: [docker-compose,linux,remote-desktop,vnc,rdp,compose]
+tags: []
 
 image: https://random.imagecdn.app/820/360
 
@@ -18,4 +18,3 @@ hidden: false
 
 ---
 
-https://www.youtube.com/shorts/BDwAoDFofOs
