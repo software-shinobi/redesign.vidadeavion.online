@@ -1,9 +1,15 @@
 ---
+
 layout: post
+
 title:  "American Football / Spanish Words & Translations"
+
 author: sal
+
 categories: [ spanish,football ]
-image: https://static.profootballnetwork.com/wp-content/uploads/2021/02/15211332/nfl-logo-shield-history-design-meaning.jpg
+
+image: assets/images/logos/nfl-shield.jpg
+
 ---
 
 spanish words i gotta learn from watching NFL in spanish.
@@ -22,7 +28,7 @@ suelta
 
 castigo
 
-## NFL Mundo Spanish YouTube Channel
+## @NFLMundo Spanish YouTube Channel
 
 Here is the NFL YouTube Channel in Spanish.
 
