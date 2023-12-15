@@ -1,15 +1,26 @@
 ---
+
 layout: page
-title: About
+
+title: About @VidaDeAvion
+
 permalink: "/about/"
+
 image: assets/images/screenshot.png
+
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+i ain't shit.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+don't listen to this.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+if you don't get bitches this site gonna make you mad.
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+you've been warned.
 
+to quote drake.
+
+```quote
+Know that I don't make music for niggas who don't get pussy
+So those are the ones I count on to diss me or overlook me
+```
