@@ -18,28 +18,7 @@ hidden: false
 
 ---
 
-## wish list
 
-shooting form
-
-cover image
-
-live video watching from article
-
-dribbling workout
-
-shot chart
-
-dribble drive as left hand
-
-where to aim / how to aim
-
-mechanics blue print
-
-workout session workouts
-
-
-probing dribble shark thing
 
 ## shooting form mechanics
 
@@ -62,3 +41,26 @@ https://www.youtube.com/watch?v=ZabdQX_bf8w
 ### James Harden | Every Step Back | 2019-20 | Houston Rockets 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IRHdf1uQZFw?si=dldHSBAL7Yb1E1cO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## wish list
+
+[ ] shooting form
+
+[ ] cover image
+
+[ ] live video watching from article
+
+[ ] dribbling workout
+
+[ ] shot chart
+
+[ ] dribble drive as left hand
+
+[ ] where to aim / how to aim
+
+[ ] mechanics blue print
+
+[ ] workout session workouts
+
+[ ] probing dribble shark thing
+
