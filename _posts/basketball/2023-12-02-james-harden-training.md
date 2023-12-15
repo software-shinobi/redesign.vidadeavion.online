@@ -40,6 +40,15 @@ workout session workouts
 
 
 probing dribble shark thing
+
+## shooting form mechanics
+
+### How to Shoot like James Harden: Shooting Form Blueprint
+
+@ShotMechanics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uOzwHGbh_Qo?si=B4MsvNl1MqPp-KRN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 1 on 1 compilations
 
 ### James Harden Isolation Scoring (Prime Harden) 
