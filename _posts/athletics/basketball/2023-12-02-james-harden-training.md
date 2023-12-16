@@ -6,9 +6,9 @@ author: softwareshinobi
 
 title:  "Playing Basketball Like James Harden"
 
-categories: []
+categories: [athletics, basketball]
 
-tags: []
+tags: [athletics,sports,basketball,james harden,harden,step back]
 
 image: assets/images/athletics/basketball/james-harden.jpg
 
@@ -18,8 +18,23 @@ hidden: false
 
 ---
 
+he's left handed. i'm left handed. he sick from three and dribble drive penetration. i want all that. 
 
+## introduction
 
+i've used harden's moves in my games since i lived in houston. and he played in houston.
+
+so i was literally learning from the best in the league. hah.
+
+anyways. ascendance. this document is my living notebook to improve my game.
+
+this content was created and curated with intention to give niggas buckets all over the planet.
+
+adelante!
+
+## [ ] probing dribble shark thing
+
+## [ ] shot chart
 ## shooting form mechanics
 
 ### How to Shoot like James Harden: Shooting Form Blueprint
@@ -42,25 +57,20 @@ https://www.youtube.com/watch?v=ZabdQX_bf8w
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IRHdf1uQZFw?si=dldHSBAL7Yb1E1cO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## award winning season compilations
+
+###  James Harden's Epic 17-18 MVP Season Highlights (Part 2) | GOAT SZN 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jerHuaIEQjg?si=zBKv3QzpQZOMDe5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## wish list
-
-[ ] shooting form
-
-[ ] cover image
-
-[ ] live video watching from article
-
-[ ] dribbling workout
-
-[ ] shot chart
 
 [ ] dribble drive as left hand
 
+## related content
+
+[ ] dribbling workout
+
 [ ] where to aim / how to aim
 
-[ ] mechanics blue print
-
 [ ] workout session workouts
-
-[ ] probing dribble shark thing
-
