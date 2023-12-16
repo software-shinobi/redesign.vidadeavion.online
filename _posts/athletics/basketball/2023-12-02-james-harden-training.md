@@ -10,7 +10,7 @@ categories: []
 
 tags: []
 
-image: https://random.imagecdn.app/820/360
+image: assets/images/athletics/basketball/james-harden.jpg
 
 description: "All the content to copy the game of basketball like James Harden."
 
